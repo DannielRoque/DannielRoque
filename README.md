@@ -53,8 +53,37 @@ Atualmente trabalho com desenvolvimento de aplicações móveis, com foco em **A
 
 ## 📊 O meu GitHub em números
 
+<h2 align="left">📊 Most Used Languages</h2>
+
+<div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 20px; width: 100%; max-width: 400px; font-family: sans-serif; color: #f0f6fc;">
+  <p style="color: #f472b6; font-weight: bold; font-size: 18px;">Most Used Languages</p>
+
+  <div style="margin-bottom: 12px;">
+    <span style="font-weight: bold; color: #79c0ff;">80%</span>
+    <div style="display: inline-block; height: 10px; width: 80%; background-color: #f9826c; border-radius: 6px; margin-left: 10px;"></div>
+    <span style="margin-left: 10px;">Kotlin</span>
+  </div>
+
+  <div style="margin-bottom: 12px;">
+    <span style="font-weight: bold; color: #79c0ff;">12%</span>
+    <div style="display: inline-block; height: 10px; width: 12%; background-color: #f9826c; border-radius: 6px; margin-left: 10px;"></div>
+    <span style="margin-left: 10px;">Java</span>
+  </div>
+
+  <div style="margin-bottom: 12px;">
+    <span style="font-weight: bold; color: #79c0ff;">6%</span>
+    <div style="display: inline-block; height: 10px; width: 6%; background-color: #f9826c; border-radius: 6px; margin-left: 10px;"></div>
+    <span style="margin-left: 10px;">Spring</span>
+  </div>
+
+  <div>
+    <span style="font-weight: bold; color: #79c0ff;">2%</span>
+    <div style="display: inline-block; height: 10px; width: 2%; background-color: #f9826c; border-radius: 6px; margin-left: 10px;"></div>
+    <span style="margin-left: 10px;">MySQL</span>
+  </div>
+</div>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielroque&layout=compact&langs_count=6&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api?username=danielroque&show_icons=true&theme=radical&count_private=true" />
 </div>
 
