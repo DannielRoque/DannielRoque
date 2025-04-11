@@ -53,8 +53,6 @@ Atualmente trabalho com desenvolvimento de aplicações móveis, com foco em **A
 
 ## 📊 O meu GitHub em números
 
-<h2 align="left">📊 Most Used Languages</h2>
-
 <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 20px; width: 100%; max-width: 400px; font-family: sans-serif; color: #f0f6fc;">
   <p style="color: #f472b6; font-weight: bold; font-size: 18px;">Most Used Languages</p>
 
@@ -82,6 +80,7 @@ Atualmente trabalho com desenvolvimento de aplicações móveis, com foco em **A
     <span style="margin-left: 10px;">MySQL</span>
   </div>
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danielroque&show_icons=true&theme=radical&count_private=true" />
